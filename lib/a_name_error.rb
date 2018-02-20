@@ -1,4 +1,4 @@
-:word = "hello world"
+word = "hello world"
 
 def hello_world
   puts word 
